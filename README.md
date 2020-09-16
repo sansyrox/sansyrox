@@ -9,9 +9,9 @@
     </a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
-<p align="center">
+<!-- <p align="center">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=22jffys2vvo5gpuf4ooozafta&cover_image=true"/>
-</p>
+</p> -->
 <a href="https://stealthanthrax.github.io">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=stealthanthrax&column=7&theme=onedark"/>
