@@ -7,8 +7,13 @@
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </a>
 <p>
+    
+<p align="center">
+    <a href="https://stealthanthrax.github.io">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22jffys2vvo5gpuf4ooozafta&count={1}&width=20" width="30">
+    </a>
+<p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22jffys2vvo5gpuf4ooozafta&count={1}&width=20)
 
 <a href="https://stealthanthrax.github.io">
     <p align="center">
