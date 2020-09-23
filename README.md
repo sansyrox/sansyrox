@@ -8,11 +8,7 @@
     </a>
 <p>
     
-<p align="center">
-    <a href="https://stealthanthrax.github.io">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22jffys2vvo5gpuf4ooozafta&count={1}&width=20" width="30">
-    </a>
-<p>
+
 
 
 <a href="https://stealthanthrax.github.io">
@@ -23,7 +19,8 @@
 <!-- My GitHub stats with buefy theme ❤️ -->
 <a align="center" href="https://stealthanthrax.github.io">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=stealthanthrax&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealthanthrax&layout=compact&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=stealthanthrax&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealthanthrax&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 </a>
 
