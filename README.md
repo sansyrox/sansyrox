@@ -1,9 +1,9 @@
-<a href="https://stealthanthrax.github.io">
+<a href="https://sansyrox.github.io">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </a>
 <p align="center">
-    <a href="https://stealthanthrax.github.io">
+    <a href="https://sansyrox.github.io">
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </a>
 <p>
@@ -11,16 +11,16 @@
 
 
 
-<a href="https://stealthanthrax.github.io">
+<a href="https://sansyrox.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=stealthanthrax&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=sansyrox&column=7&theme=onedark"/>
     </p>
 </a>
 <!-- My GitHub stats with buefy theme ❤️ -->
-<a align="center" href="https://stealthanthrax.github.io">
+<a align="center" href="https://sansyrox.github.io">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=stealthanthrax&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealthanthrax&layout=compact&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=sansyrox&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansyrox&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 </a>
 
@@ -116,34 +116,34 @@
 <p align="center">
 
 <a href="https://stealthanthrax.github.io" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@stealthanthrax" height="20" width="20" />
+<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@sansyrox" height="20" width="20" />
 </a>
 
 <a href="https://medium.com/@arashmidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@stealthanthrax" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sansyrox" height="20" width="20" />
 </a>
 
 <a href="https://linkedin.com/in/arash-aghajani" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stealthanthrax" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sansyrox" height="20" width="20" />
 </a>
 
-<a href="https://twitter.com/stealthanthrax" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="stealthanthrax" height="20" width="20" />
+<a href="https://twitter.com/sansyrox" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sansyrox" height="20" width="20" />
 </a>
 
 <a href="https://www.reddit.com/user/stealthanthrax" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="stealthanthrax" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="sansyrox" height="20" width="20" />
 </a>
-<a href="https://github.com/stealthanthrax" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="stealthanthrax" height="20" width="20" />
+<a href="https://github.com/sansyrox" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="sansyrox" height="20" width="20" />
 </a>
 
 <a href="https://t.me/sansyrox" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="stealthanthrax" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="sansyrox" height="20" width="20" />
 </a>
 
 <a href="https://open.spotify.com/user/22jffys2vvo5gpuf4ooozafta?si=G--M2ERgTtWdwCXo6wf1jA" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="stealthanthrax" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="sansyrox" height="20" width="20" />
 </a>
 
 </p>
