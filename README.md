@@ -121,11 +121,11 @@
 <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@sansyrox" height="20" width="20" />
 </a>
 
-<a href="https://medium.com/@arashmidos" target="blank">
+<a href="https://medium.com/@sansyrox" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sansyrox" height="20" width="20" />
 </a>
 
-<a href="https://linkedin.com/in/arash-aghajani" target="blank">
+<a href="https://linkedin.com/in/sanskar123" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sansyrox" height="20" width="20" />
 </a>
 
