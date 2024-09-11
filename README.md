@@ -9,7 +9,21 @@
     </a>
 <p>
 
-    
+
+Hey, I’m @sansyrox 👋
+I build and maintain a bunch of things:
+
+- [sparckles/Robyn](https://github.com/sparckles/Robyn): Robyn is a Super Fast Async Python Web Framework with a Rust runtime and a builin web server.
+- [sparckles/starfyre](https://github.com/sparckles/starfyre): A reactive, WASM based SSR Python Web Framework for Front-End Applications
+- [git-add-co-author](https://github.com/sansyrox/git-add-co-author): No, you didn’t write all that code. Here’s an easy way to admit it.
+- [sparckles/nestd](https://github.com/sparckles/nestd): A package to extract your nested functions.
+- [macsimus](https://github.com/sansyrox/macsimus): A custom editor based on NeoVim and inspired from Vim and Emacs to maximise productivity.
+- [cursor-neovim](https://github.com/sansyrox/cursor-neovim): Customise Cursor to resemble Neovim in a few commands.
+- [xcode-Night-Owl](https://github.com/sansyrox/xcode-Night-Owl): XCode port of the Night Owl Theme
+- [vim-python-virtualenv](https://github.com/sansyrox/vim-python-virtualenv): A vim plugin which automatically manages the python virtual envs for you
+- [cringify](https://github.com/sansyrox/cringify): A cli tool to annoy your friends on the internet
+
+Dive in, star, fork, or just lurk—whatever floats your boat.
 
 
 
@@ -28,8 +42,6 @@
 
 
     
-
-
 
 
 
