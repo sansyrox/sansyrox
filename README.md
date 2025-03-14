@@ -13,7 +13,7 @@
 Hey, I’m @sansyrox 👋
 I build and maintain a bunch of things:
 
-- [thepersonalaicompany/amurex](https://github.com/thepersonalaicompany/amurex): World's first AI meeting copilot
+- [thepersonalaicompany/amurex](https://github.com/thepersonalaicompany/amurex): The invisible companion for your Work + Life
 - [sparckles/Robyn](https://github.com/sparckles/Robyn): Robyn is a Super Fast Async Python Web Framework with a Rust runtime and a builin web server.
 - [sparckles/starfyre](https://github.com/sparckles/starfyre): A reactive, WASM based SSR Python Web Framework for Front-End Applications
 - [git-add-co-author](https://github.com/sansyrox/git-add-co-author): No, you didn’t write all that code. Here’s an easy way to admit it.
